@@ -1,0 +1,7 @@
+platformName: Android
+platformVersion: 7.1.2
+deviceName: d903d88b
+appPackage: com.gogocinema.android
+appActivity: com.gogocinema.android.ui.activity.splash.SplashActivity
+noReset: False
+automationName: uiautomator2

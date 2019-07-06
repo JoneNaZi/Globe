@@ -1,0 +1,611 @@
+2019-04-11 10:25:54,173 myunit.py[line:8] INFO ======setUp======
+2019-04-11 10:26:25,286 login_test.py[line:18] INFO ======test_02======
+2019-04-11 10:26:25,287 common_fun.py[line:18] INFO ======skip_guide_page======
+2019-04-11 10:26:30,801 common_fun.py[line:29] INFO ======go_login_view======
+2019-04-11 10:26:37,410 myunit.py[line:12] INFO ======tearDown======
+2019-04-11 11:35:32,741 myunit.py[line:8] INFO ======setUp======
+2019-04-11 11:36:21,209 myunit.py[line:8] INFO ======setUp======
+2019-04-11 11:36:51,899 login_test.py[line:18] INFO ======test_02======
+2019-04-11 11:36:51,900 common_fun.py[line:18] INFO ======skip_guide_page======
+2019-04-11 11:37:07,117 myunit.py[line:12] INFO ======tearDown======
+2019-04-11 11:54:16,064 myunit.py[line:8] INFO ======setUp======
+2019-04-11 11:54:39,727 login_test.py[line:18] INFO ======test_02======
+2019-04-11 11:54:39,728 common_fun.py[line:18] INFO ======skip_guide_page======
+2019-04-11 11:54:45,873 common_fun.py[line:29] INFO ======go_login_view======
+2019-04-11 11:54:53,416 login_view.py[line:41] INFO ======login_sms_action======
+2019-04-11 11:54:53,416 login_view.py[line:42] INFO phoneNum is 18229635206
+2019-04-11 11:54:53,417 myunit.py[line:12] INFO ======tearDown======
+2019-04-11 11:57:36,445 myunit.py[line:8] INFO ======setUp======
+2019-04-11 11:57:56,738 login_test.py[line:10] INFO ======test_01======
+2019-04-11 11:57:56,739 common_fun.py[line:18] INFO ======skip_guide_page======
+2019-04-11 11:58:02,227 common_fun.py[line:29] INFO ======go_login_view======
+2019-04-11 11:58:11,240 login_view.py[line:28] INFO ======login_password_action======
+2019-04-11 11:58:11,240 login_view.py[line:29] INFO phoneNum is 18229635206
+2019-04-11 11:58:17,328 login_view.py[line:31] INFO password is a1234567
+2019-04-11 11:58:25,083 login_view.py[line:51] INFO ======check_login_status======
+2019-04-11 11:58:28,302 login_view.py[line:60] INFO login success!
+2019-04-11 11:58:28,302 myunit.py[line:12] INFO ======tearDown======
+2019-04-11 11:59:51,841 myunit.py[line:8] INFO ======setUp======
+2019-04-11 12:00:12,661 login_test.py[line:18] INFO ======test_02======
+2019-04-11 12:00:12,662 common_fun.py[line:18] INFO ======skip_guide_page======
+2019-04-11 12:00:19,495 common_fun.py[line:29] INFO ======go_login_view======
+2019-04-11 12:00:28,631 login_view.py[line:41] INFO ======login_sms_action======
+2019-04-11 12:00:28,631 login_view.py[line:42] INFO phoneNum is 18229635206
+2019-04-11 12:00:35,860 login_view.py[line:44] INFO verificationCode is 4825
+2019-04-11 12:00:44,101 login_view.py[line:51] INFO ======check_login_status======
+2019-04-11 12:00:46,351 login_view.py[line:60] INFO login success!
+2019-04-11 12:00:46,351 myunit.py[line:12] INFO ======tearDown======
+2019-04-11 12:03:18,210 myunit.py[line:8] INFO ======setUp======
+2019-04-11 12:03:38,847 login_test.py[line:18] INFO ======test_02======
+2019-04-11 12:03:38,849 common_fun.py[line:18] INFO ======skip_guide_page======
+2019-04-11 12:03:45,623 common_fun.py[line:29] INFO ======go_login_view======
+2019-04-11 12:03:53,888 login_view.py[line:41] INFO ======login_sms_action======
+2019-04-11 12:03:53,888 login_view.py[line:42] INFO phoneNum is 18229635206
+2019-04-11 12:04:00,204 login_view.py[line:44] INFO verificationCode is 4825
+2019-04-11 12:04:06,542 login_view.py[line:51] INFO ======check_login_status======
+2019-04-11 12:04:09,733 login_view.py[line:60] INFO login success!
+2019-04-11 12:04:09,733 myunit.py[line:12] INFO ======tearDown======
+2019-04-11 12:05:03,013 myunit.py[line:8] INFO ======setUp======
+2019-04-11 12:05:43,059 login_test.py[line:11] INFO ======test_01======
+2019-04-11 12:05:43,060 common_fun.py[line:18] INFO ======skip_guide_page======
+2019-04-11 12:05:48,127 common_fun.py[line:29] INFO ======go_login_view======
+2019-04-11 12:05:55,240 login_view.py[line:28] INFO ======login_password_action======
+2019-04-11 12:05:55,240 login_view.py[line:29] INFO phoneNum is 18229635206
+2019-04-11 12:06:03,157 login_view.py[line:31] INFO password is a1234567
+2019-04-11 12:06:11,833 login_view.py[line:51] INFO ======check_login_status======
+2019-04-11 12:06:16,749 login_view.py[line:60] INFO login success!
+2019-04-11 12:06:16,749 myunit.py[line:12] INFO ======tearDown======
+2019-04-11 12:06:52,745 myunit.py[line:8] INFO ======setUp======
+2019-04-11 18:47:09,165 run.py[line:17] INFO start run test case...
+2019-04-11 18:47:09,165 myunit.py[line:8] INFO ======setUp======
+2019-04-11 18:47:42,122 test_login.py[line:11] INFO ======test_01======
+2019-04-11 18:47:42,125 common_fun.py[line:18] INFO ======skip_guide_page======
+2019-04-11 18:47:48,400 common_fun.py[line:29] INFO ======go_login_view======
+2019-04-11 18:47:54,966 login_view.py[line:28] INFO ======login_password_action======
+2019-04-11 18:47:54,966 login_view.py[line:29] INFO phoneNum is 18229635206
+2019-04-11 18:48:03,905 login_view.py[line:31] INFO password is a1234567
+2019-04-11 18:48:12,905 login_view.py[line:51] INFO ======check_login_status======
+2019-04-11 18:48:14,646 login_view.py[line:60] INFO login success!
+2019-04-11 18:48:14,646 myunit.py[line:12] INFO ======tearDown======
+2019-04-11 18:48:21,210 myunit.py[line:8] INFO ======setUp======
+2019-04-11 18:49:11,557 test_login.py[line:19] INFO ======test_02======
+2019-04-11 18:49:11,558 common_fun.py[line:18] INFO ======skip_guide_page======
+2019-04-11 18:49:16,773 common_fun.py[line:29] INFO ======go_login_view======
+2019-04-11 18:49:25,881 login_view.py[line:41] INFO ======login_sms_action======
+2019-04-11 18:49:25,881 login_view.py[line:42] INFO phoneNum is 18229635206
+2019-04-11 18:49:32,176 login_view.py[line:44] INFO verificationCode is 4825
+2019-04-11 18:49:40,170 login_view.py[line:51] INFO ======check_login_status======
+2019-04-11 18:49:41,580 login_view.py[line:60] INFO login success!
+2019-04-11 18:49:41,580 myunit.py[line:12] INFO ======tearDown======
+2019-04-11 18:56:43,559 run.py[line:17] INFO start run test case...
+2019-04-11 18:56:43,559 myunit.py[line:8] INFO ======setUp======
+2019-04-11 18:57:04,409 test_login.py[line:11] INFO ======test_01======
+2019-04-11 18:57:04,411 common_fun.py[line:18] INFO ======skip_guide_page======
+2019-04-11 18:57:11,325 common_fun.py[line:29] INFO ======go_login_view======
+2019-04-11 18:57:18,285 login_view.py[line:28] INFO ======login_password_action======
+2019-04-11 18:57:18,285 login_view.py[line:29] INFO phoneNum is 18229635206
+2019-04-11 18:57:25,334 login_view.py[line:31] INFO password is a1234567
+2019-04-11 18:57:33,925 login_view.py[line:51] INFO ======check_login_status======
+2019-04-11 18:57:37,472 login_view.py[line:60] INFO login success!
+2019-04-11 18:57:37,473 myunit.py[line:12] INFO ======tearDown======
+2019-04-11 18:57:43,570 myunit.py[line:8] INFO ======setUp======
+2019-04-11 18:58:28,785 test_login.py[line:19] INFO ======test_02======
+2019-04-11 18:58:28,786 common_fun.py[line:18] INFO ======skip_guide_page======
+2019-04-11 18:58:36,856 common_fun.py[line:29] INFO ======go_login_view======
+2019-04-11 18:58:44,387 login_view.py[line:41] INFO ======login_sms_action======
+2019-04-11 18:58:44,387 login_view.py[line:42] INFO phoneNum is 18229635206
+2019-04-11 18:58:50,727 login_view.py[line:44] INFO verificationCode is 4825
+2019-04-11 18:58:58,867 login_view.py[line:51] INFO ======check_login_status======
+2019-04-11 18:59:02,324 login_view.py[line:60] INFO login success!
+2019-04-11 18:59:02,325 myunit.py[line:12] INFO ======tearDown======
+2019-04-11 19:03:18,573 run.py[line:17] INFO start run test case...
+2019-04-11 19:03:18,573 myunit.py[line:8] INFO ======setUp======
+2019-04-11 19:03:18,574 myunit.py[line:8] INFO ======setUp======
+2019-04-11 19:03:51,642 run.py[line:17] INFO start run test case...
+2019-04-11 19:03:51,643 myunit.py[line:8] INFO ======setUp======
+2019-04-11 19:03:51,644 myunit.py[line:8] INFO ======setUp======
+2019-04-11 19:04:08,630 run.py[line:17] INFO start run test case...
+2019-04-11 19:04:08,631 myunit.py[line:8] INFO ======setUp======
+2019-04-11 19:04:34,838 test_login.py[line:11] INFO ======test_01======
+2019-04-11 19:04:34,840 common_fun.py[line:18] INFO ======skip_guide_page======
+2019-04-11 19:04:42,403 common_fun.py[line:29] INFO ======go_login_view======
+2019-04-11 19:05:22,509 run.py[line:17] INFO start run test case...
+2019-04-11 19:05:22,510 myunit.py[line:8] INFO ======setUp======
+2019-04-11 19:06:01,786 test_login.py[line:11] INFO ======test_01======
+2019-04-11 19:06:01,788 common_fun.py[line:18] INFO ======skip_guide_page======
+2019-04-11 19:06:07,807 common_fun.py[line:29] INFO ======go_login_view======
+2019-04-11 19:06:14,250 login_view.py[line:28] INFO ======login_password_action======
+2019-04-11 19:06:14,251 login_view.py[line:29] INFO phoneNum is 18229635206
+2019-04-11 19:06:19,904 login_view.py[line:31] INFO password is a1234567
+2019-04-11 19:06:28,299 login_view.py[line:51] INFO ======check_login_status======
+2019-04-11 19:06:30,007 login_view.py[line:60] INFO login success!
+2019-04-11 19:06:30,007 myunit.py[line:12] INFO ======tearDown======
+2019-04-11 19:06:36,541 myunit.py[line:8] INFO ======setUp======
+2019-04-11 19:07:26,035 test_login.py[line:19] INFO ======test_02======
+2019-04-11 19:07:26,036 common_fun.py[line:18] INFO ======skip_guide_page======
+2019-04-11 19:07:32,253 common_fun.py[line:29] INFO ======go_login_view======
+2019-04-11 19:07:40,638 login_view.py[line:41] INFO ======login_sms_action======
+2019-04-11 19:07:40,638 login_view.py[line:42] INFO phoneNum is 18229635206
+2019-04-11 19:07:47,343 login_view.py[line:44] INFO verificationCode is 4825
+2019-04-11 19:07:56,832 login_view.py[line:51] INFO ======check_login_status======
+2019-04-11 19:08:00,271 login_view.py[line:60] INFO login success!
+2019-04-11 19:08:00,271 myunit.py[line:12] INFO ======tearDown======
+2019-04-25 08:59:21,624 run.py[line:17] INFO start run test case...
+2019-04-25 08:59:21,625 myunit.py[line:8] INFO ======setUp======
+2019-04-25 08:59:51,429 test_login.py[line:11] INFO ======test_01======
+2019-04-25 08:59:51,431 common_fun.py[line:18] INFO ======skip_guide_page======
+2019-04-25 08:59:58,881 common_fun.py[line:29] INFO ======go_login_view======
+2019-04-25 09:00:04,138 login_view.py[line:28] INFO ======login_password_action======
+2019-04-25 09:00:04,138 login_view.py[line:29] INFO phoneNum is 18229635206
+2019-04-25 09:00:10,812 login_view.py[line:31] INFO password is a1234567
+2019-04-25 09:00:17,261 login_view.py[line:51] INFO ======check_login_status======
+2019-04-25 09:00:19,149 login_view.py[line:60] INFO login success!
+2019-04-25 09:00:19,149 myunit.py[line:12] INFO ======tearDown======
+2019-04-25 09:00:26,010 myunit.py[line:8] INFO ======setUp======
+2019-04-25 09:01:13,433 test_login.py[line:19] INFO ======test_02======
+2019-04-25 09:01:13,433 common_fun.py[line:18] INFO ======skip_guide_page======
+2019-04-25 09:01:18,325 common_fun.py[line:29] INFO ======go_login_view======
+2019-04-25 09:01:24,940 login_view.py[line:41] INFO ======login_sms_action======
+2019-04-25 09:01:24,940 login_view.py[line:42] INFO phoneNum is 18229635206
+2019-04-25 09:01:32,107 login_view.py[line:44] INFO verificationCode is 4825
+2019-04-25 09:01:41,716 login_view.py[line:51] INFO ======check_login_status======
+2019-04-25 09:01:44,463 login_view.py[line:60] INFO login success!
+2019-04-25 09:01:44,464 myunit.py[line:12] INFO ======tearDown======
+2019-04-25 09:19:23,824 run.py[line:17] INFO start run test case...
+2019-04-25 09:19:23,824 myunit.py[line:8] INFO ======setUp======
+2019-04-25 09:19:48,813 test_login.py[line:11] INFO ======test_01======
+2019-04-25 09:19:48,815 common_fun.py[line:18] INFO ======skip_guide_page======
+2019-04-25 09:19:56,015 common_fun.py[line:29] INFO ======go_login_view======
+2019-04-25 09:20:00,809 login_view.py[line:28] INFO ======login_password_action======
+2019-04-25 09:20:00,809 login_view.py[line:29] INFO phoneNum is 18229635206
+2019-04-25 09:20:10,038 login_view.py[line:31] INFO password is a1234567
+2019-04-25 09:20:17,269 login_view.py[line:51] INFO ======check_login_status======
+2019-04-25 09:20:19,174 login_view.py[line:60] INFO login success!
+2019-04-25 09:20:19,174 myunit.py[line:12] INFO ======tearDown======
+2019-04-25 09:20:25,738 myunit.py[line:8] INFO ======setUp======
+2019-04-25 09:21:09,936 test_login.py[line:19] INFO ======test_02======
+2019-04-25 09:21:09,936 common_fun.py[line:18] INFO ======skip_guide_page======
+2019-04-25 09:21:15,680 common_fun.py[line:29] INFO ======go_login_view======
+2019-04-25 09:21:22,300 login_view.py[line:41] INFO ======login_sms_action======
+2019-04-25 09:21:22,300 login_view.py[line:42] INFO phoneNum is 18229635206
+2019-04-25 09:21:29,613 login_view.py[line:44] INFO verificationCode is 4825
+2019-04-25 09:21:38,593 login_view.py[line:51] INFO ======check_login_status======
+2019-04-25 09:21:39,944 login_view.py[line:60] INFO login success!
+2019-04-25 09:21:39,944 myunit.py[line:12] INFO ======tearDown======
+2019-04-25 09:21:46,475 myunit.py[line:8] INFO ======setUp======
+2019-04-25 09:22:33,659 test_register.py[line:14] INFO ======test_register======
+2019-04-25 09:22:33,659 common_fun.py[line:18] INFO ======skip_guide_page======
+2019-04-25 09:22:38,769 common_fun.py[line:29] INFO ======go_login_view======
+2019-04-25 09:22:42,974 register_view.py[line:22] INFO ======register_action======
+2019-04-25 09:22:42,974 myunit.py[line:12] INFO ======tearDown======
+2019-04-25 09:26:32,745 run.py[line:17] INFO start run test case...
+2019-04-25 09:26:32,745 myunit.py[line:8] INFO ======setUp======
+2019-04-25 09:26:57,133 test_login.py[line:11] INFO ======test_01======
+2019-04-25 09:26:57,135 common_fun.py[line:18] INFO ======skip_guide_page======
+2019-04-25 09:27:06,380 common_fun.py[line:29] INFO ======go_login_view======
+2019-04-25 09:27:10,866 login_view.py[line:28] INFO ======login_password_action======
+2019-04-25 09:27:10,866 login_view.py[line:29] INFO phoneNum is 18229635206
+2019-04-25 09:27:17,850 login_view.py[line:31] INFO password is a1234567
+2019-04-25 09:27:26,252 login_view.py[line:51] INFO ======check_login_status======
+2019-04-25 09:27:27,962 login_view.py[line:60] INFO login success!
+2019-04-25 09:27:27,962 myunit.py[line:12] INFO ======tearDown======
+2019-04-25 09:27:34,552 myunit.py[line:8] INFO ======setUp======
+2019-04-25 09:28:25,499 test_login.py[line:19] INFO ======test_02======
+2019-04-25 09:28:25,499 common_fun.py[line:18] INFO ======skip_guide_page======
+2019-04-25 09:28:30,697 common_fun.py[line:29] INFO ======go_login_view======
+2019-04-25 09:28:37,739 login_view.py[line:41] INFO ======login_sms_action======
+2019-04-25 09:28:37,739 login_view.py[line:42] INFO phoneNum is 18229635206
+2019-04-25 09:28:43,989 login_view.py[line:44] INFO verificationCode is 4825
+2019-04-25 09:28:55,842 login_view.py[line:51] INFO ======check_login_status======
+2019-04-25 09:28:57,706 login_view.py[line:60] INFO login success!
+2019-04-25 09:28:57,706 myunit.py[line:12] INFO ======tearDown======
+2019-04-25 09:29:04,275 myunit.py[line:8] INFO ======setUp======
+2019-04-25 09:29:51,148 test_register.py[line:14] INFO ======test_register======
+2019-04-25 09:29:51,148 common_fun.py[line:18] INFO ======skip_guide_page======
+2019-04-25 09:29:56,285 common_fun.py[line:29] INFO ======go_login_view======
+2019-04-25 09:30:02,150 register_view.py[line:22] INFO ======register_action======
+2019-04-25 09:30:02,996 register_view.py[line:24] INFO phoneNum is 15973745479
+2019-04-25 09:30:10,004 register_view.py[line:26] INFO verificationCode is 6783
+2019-04-25 09:30:18,670 register_view.py[line:28] INFO password is a1105178
+2019-04-25 09:30:26,569 login_view.py[line:51] INFO ======check_login_status======
+2019-04-25 09:30:29,074 login_view.py[line:60] INFO login success!
+2019-04-25 09:30:29,075 myunit.py[line:12] INFO ======tearDown======
+2019-04-25 14:16:42,706 run.py[line:17] INFO start run test case...
+2019-04-25 14:16:42,706 myunit.py[line:8] INFO ======setUp======
+2019-04-25 14:17:19,808 run.py[line:17] INFO start run test case...
+2019-04-25 14:17:19,808 myunit.py[line:8] INFO ======setUp======
+2019-04-25 14:17:21,800 myunit.py[line:8] INFO ======setUp======
+2019-04-25 14:17:47,398 run.py[line:17] INFO start run test case...
+2019-04-25 14:17:47,398 myunit.py[line:8] INFO ======setUp======
+2019-04-25 14:17:49,093 myunit.py[line:8] INFO ======setUp======
+2019-04-25 14:24:42,542 run.py[line:17] INFO start run test case...
+2019-04-25 14:24:42,543 myunit.py[line:8] INFO ======setUp======
+2019-04-25 14:24:43,626 myunit.py[line:8] INFO ======setUp======
+2019-04-25 14:26:39,263 run.py[line:17] INFO start run test case...
+2019-04-25 14:26:39,263 myunit.py[line:8] INFO ======setUp======
+2019-04-25 14:26:40,000 myunit.py[line:8] INFO ======setUp======
+2019-04-25 14:27:56,896 run.py[line:17] INFO start run test case...
+2019-04-25 14:27:56,897 myunit.py[line:8] INFO ======setUp======
+2019-04-25 14:27:57,672 myunit.py[line:8] INFO ======setUp======
+2019-04-25 14:33:28,572 run.py[line:17] INFO start run test case...
+2019-04-25 14:33:28,573 myunit.py[line:8] INFO ======setUp======
+2019-04-25 14:33:29,890 myunit.py[line:8] INFO ======setUp======
+2019-04-25 14:34:02,644 run.py[line:17] INFO start run test case...
+2019-04-25 14:34:02,645 myunit.py[line:8] INFO ======setUp======
+2019-04-25 14:34:36,486 test_login.py[line:26] INFO ======test_01======
+2019-04-25 14:34:36,488 common_fun.py[line:18] INFO ======skip_guide_page======
+2019-04-25 14:34:39,162 common_fun.py[line:29] INFO ======go_login_view======
+2019-04-25 14:34:42,237 login_view.py[line:33] INFO ======login_password_action======
+2019-04-25 14:34:42,238 login_view.py[line:34] INFO phoneNum is 18512454646
+2019-04-25 14:34:42,356 myunit.py[line:12] INFO ======tearDown======
+2019-04-25 14:34:48,682 myunit.py[line:8] INFO ======setUp======
+2019-04-25 14:35:11,050 test_register.py[line:14] INFO ======test_register======
+2019-04-25 14:35:11,050 common_fun.py[line:18] INFO ======skip_guide_page======
+2019-04-25 14:35:18,752 common_fun.py[line:29] INFO ======go_login_view======
+2019-04-25 14:35:21,424 register_view.py[line:22] INFO ======register_action======
+2019-04-25 14:35:21,502 myunit.py[line:12] INFO ======tearDown======
+2019-04-25 14:36:31,712 run.py[line:17] INFO start run test case...
+2019-04-25 14:36:31,712 myunit.py[line:8] INFO ======setUp======
+2019-04-25 14:36:52,605 test_login.py[line:26] INFO ======test_01======
+2019-04-25 14:36:52,607 common_fun.py[line:18] INFO ======skip_guide_page======
+2019-04-25 14:36:55,795 common_fun.py[line:29] INFO ======go_login_view======
+2019-04-25 14:36:58,279 login_view.py[line:33] INFO ======login_password_action======
+2019-04-25 14:36:58,279 login_view.py[line:34] INFO phoneNum is 18512454646
+2019-04-25 14:36:58,357 myunit.py[line:12] INFO ======tearDown======
+2019-04-25 14:37:04,697 myunit.py[line:8] INFO ======setUp======
+2019-04-28 09:08:07,321 run.py[line:17] INFO start run test case...
+2019-04-28 09:08:07,323 myunit.py[line:8] INFO ======setUp======
+2019-04-28 09:08:47,076 test_login.py[line:26] INFO ======test_01======
+2019-04-28 09:08:47,102 common_fun.py[line:18] INFO ======skip_guide_page======
+2019-04-28 09:08:48,110 common_fun.py[line:29] INFO ======go_login_view======
+2019-04-28 09:08:50,094 login_view.py[line:33] INFO ======login_password_action======
+2019-04-28 09:08:50,095 login_view.py[line:34] INFO phoneNum is 18512454646
+2019-04-28 09:08:50,346 myunit.py[line:12] INFO ======tearDown======
+2019-04-28 09:08:56,634 myunit.py[line:8] INFO ======setUp======
+2019-04-28 09:09:24,349 test_register.py[line:14] INFO ======test_register======
+2019-04-28 09:09:24,349 common_fun.py[line:18] INFO ======skip_guide_page======
+2019-04-28 09:09:25,448 common_fun.py[line:29] INFO ======go_login_view======
+2019-04-28 09:09:28,445 register_view.py[line:22] INFO ======register_action======
+2019-04-28 09:09:28,544 myunit.py[line:12] INFO ======tearDown======
+2019-04-28 09:14:08,832 run.py[line:17] INFO start run test case...
+2019-04-28 09:14:08,832 myunit.py[line:8] INFO ======setUp======
+2019-04-28 09:14:32,467 test_login.py[line:11] INFO ======test_01======
+2019-04-28 09:14:32,469 common_fun.py[line:18] INFO ======skip_guide_page======
+2019-04-28 09:14:33,915 common_fun.py[line:29] INFO ======go_login_view======
+2019-04-28 09:14:36,194 login_view.py[line:33] INFO ======login_password_action======
+2019-04-28 09:14:36,195 login_view.py[line:34] INFO phoneNum is 18229635206
+2019-04-28 09:14:36,371 myunit.py[line:12] INFO ======tearDown======
+2019-04-28 09:14:42,566 myunit.py[line:8] INFO ======setUp======
+2019-04-28 12:17:58,921 run.py[line:17] INFO start run test case...
+2019-04-28 12:17:58,922 myunit.py[line:8] INFO ======setUp======
+2019-04-28 12:18:06,289 myunit.py[line:8] INFO ======setUp======
+2019-04-28 12:18:07,078 myunit.py[line:8] INFO ======setUp======
+2019-04-28 12:21:37,674 run.py[line:17] INFO start run test case...
+2019-04-28 12:21:37,675 myunit.py[line:8] INFO ======setUp======
+2019-04-28 12:22:06,913 test_login.py[line:11] INFO ======test_01======
+2019-04-28 12:22:06,933 common_fun.py[line:18] INFO ======skip_guide_page======
+2019-04-28 12:22:08,055 myunit.py[line:12] INFO ======tearDown======
+2019-04-28 12:22:14,070 myunit.py[line:8] INFO ======setUp======
+2019-04-28 12:22:37,087 test_login.py[line:19] INFO ======test_02======
+2019-04-28 12:22:37,088 common_fun.py[line:18] INFO ======skip_guide_page======
+2019-04-28 12:22:38,064 myunit.py[line:12] INFO ======tearDown======
+2019-04-28 12:22:44,072 myunit.py[line:8] INFO ======setUp======
+2019-04-28 12:23:06,183 test_register.py[line:14] INFO ======test_register======
+2019-04-28 12:23:06,184 common_fun.py[line:18] INFO ======skip_guide_page======
+2019-04-28 12:23:06,885 myunit.py[line:12] INFO ======tearDown======
+2019-04-28 12:26:17,377 run.py[line:17] INFO start run test case...
+2019-04-28 12:26:17,378 myunit.py[line:8] INFO ======setUp======
+2019-04-28 12:26:40,313 test_login.py[line:11] INFO ======test_01======
+2019-04-28 12:26:40,316 common_fun.py[line:18] INFO ======skip_guide_page======
+2019-04-28 12:26:45,826 myunit.py[line:12] INFO ======tearDown======
+2019-04-28 12:26:51,853 myunit.py[line:8] INFO ======setUp======
+2019-04-28 12:27:14,418 test_login.py[line:19] INFO ======test_02======
+2019-04-28 12:27:14,419 common_fun.py[line:18] INFO ======skip_guide_page======
+2019-04-28 12:27:19,569 myunit.py[line:12] INFO ======tearDown======
+2019-04-28 12:27:25,455 myunit.py[line:8] INFO ======setUp======
+2019-04-28 12:27:46,440 test_register.py[line:14] INFO ======test_register======
+2019-04-28 12:27:46,441 common_fun.py[line:18] INFO ======skip_guide_page======
+2019-04-28 12:27:51,973 myunit.py[line:12] INFO ======tearDown======
+2019-04-28 14:09:11,809 run.py[line:17] INFO start run test case...
+2019-04-28 14:09:11,809 myunit.py[line:8] INFO ======setUp======
+2019-04-28 14:09:16,979 myunit.py[line:8] INFO ======setUp======
+2019-04-28 14:09:22,073 myunit.py[line:8] INFO ======setUp======
+2019-04-28 14:11:29,479 run.py[line:17] INFO start run test case...
+2019-04-28 14:11:29,480 myunit.py[line:8] INFO ======setUp======
+2019-04-28 14:11:42,198 test_login.py[line:11] INFO ======test_01======
+2019-04-28 14:11:42,202 common_fun.py[line:18] INFO ======skip_guide_page======
+2019-04-28 14:11:47,319 common_fun.py[line:30] INFO ======go_login_view======
+2019-04-28 14:12:02,381 myunit.py[line:12] INFO ======tearDown======
+2019-04-28 14:12:08,440 myunit.py[line:8] INFO ======setUp======
+2019-04-28 14:12:21,168 test_login.py[line:19] INFO ======test_02======
+2019-04-28 14:12:21,169 common_fun.py[line:18] INFO ======skip_guide_page======
+2019-04-28 14:12:26,255 common_fun.py[line:30] INFO ======go_login_view======
+2019-04-28 14:12:41,595 myunit.py[line:12] INFO ======tearDown======
+2019-04-28 14:12:47,529 myunit.py[line:8] INFO ======setUp======
+2019-04-28 14:13:00,868 test_register.py[line:14] INFO ======test_register======
+2019-04-28 14:13:00,869 common_fun.py[line:18] INFO ======skip_guide_page======
+2019-04-28 14:13:05,947 common_fun.py[line:30] INFO ======go_login_view======
+2019-04-28 14:13:21,302 myunit.py[line:12] INFO ======tearDown======
+2019-04-28 14:13:59,259 run.py[line:17] INFO start run test case...
+2019-04-28 14:13:59,260 myunit.py[line:8] INFO ======setUp======
+2019-04-28 14:14:11,913 test_login.py[line:11] INFO ======test_01======
+2019-04-28 14:14:11,918 common_fun.py[line:18] INFO ======skip_guide_page======
+2019-04-28 14:14:12,590 common_fun.py[line:29] INFO ======go_login_view======
+2019-04-28 14:14:28,123 myunit.py[line:12] INFO ======tearDown======
+2019-04-28 17:13:07,640 run.py[line:17] INFO start run test case...
+2019-04-28 17:13:07,640 myunit.py[line:8] INFO ======setUp======
+2019-04-28 17:13:08,443 myunit.py[line:8] INFO ======setUp======
+2019-04-28 17:13:08,926 myunit.py[line:8] INFO ======setUp======
+2019-04-28 17:14:21,169 run.py[line:17] INFO start run test case...
+2019-04-28 17:14:21,169 myunit.py[line:8] INFO ======setUp======
+2019-04-28 17:14:39,774 test_login.py[line:11] INFO ======test_01======
+2019-04-28 17:14:39,794 common_fun.py[line:18] INFO ======skip_guide_page======
+2019-04-28 17:14:42,398 common_fun.py[line:29] INFO ======go_login_view======
+2019-04-28 17:14:46,280 login_view.py[line:33] INFO ======login_password_action======
+2019-04-28 17:14:46,280 login_view.py[line:34] INFO phoneNum is 18229635206
+2019-04-28 17:14:52,680 login_view.py[line:36] INFO password is a1234567
+2019-04-28 17:14:58,786 login_view.py[line:56] INFO ======check_login_status======
+2019-04-28 17:15:00,621 login_view.py[line:65] INFO login success!
+2019-04-28 17:15:00,622 myunit.py[line:12] INFO ======tearDown======
+2019-04-28 17:15:06,420 myunit.py[line:8] INFO ======setUp======
+2019-04-28 17:15:23,388 test_login.py[line:19] INFO ======test_02======
+2019-04-28 17:15:23,388 common_fun.py[line:18] INFO ======skip_guide_page======
+2019-04-28 17:15:26,379 common_fun.py[line:29] INFO ======go_login_view======
+2019-04-28 17:15:30,730 login_view.py[line:46] INFO ======login_sms_action======
+2019-04-28 17:15:30,731 login_view.py[line:47] INFO phoneNum is 18229635206
+2019-04-28 17:15:36,357 login_view.py[line:49] INFO verificationCode is 4825
+2019-04-28 17:15:42,360 login_view.py[line:56] INFO ======check_login_status======
+2019-04-28 17:15:43,704 login_view.py[line:65] INFO login success!
+2019-04-28 17:15:43,705 myunit.py[line:12] INFO ======tearDown======
+2019-04-28 17:15:49,503 myunit.py[line:8] INFO ======setUp======
+2019-04-28 17:16:05,660 test_register.py[line:14] INFO ======test_register======
+2019-04-28 17:16:05,660 common_fun.py[line:18] INFO ======skip_guide_page======
+2019-04-28 17:16:08,128 common_fun.py[line:29] INFO ======go_login_view======
+2019-04-28 17:16:11,339 register_view.py[line:22] INFO ======register_action======
+2019-04-28 17:16:12,513 register_view.py[line:24] INFO phoneNum is 12649897538
+2019-04-28 17:16:18,702 register_view.py[line:26] INFO verificationCode is 3986
+2019-04-28 17:16:24,123 register_view.py[line:28] INFO password is a1730308
+2019-04-28 17:16:30,033 login_view.py[line:56] INFO ======check_login_status======
+2019-04-28 17:16:31,691 login_view.py[line:65] INFO login success!
+2019-04-28 17:16:31,692 myunit.py[line:12] INFO ======tearDown======
+2019-04-28 17:18:04,342 run.py[line:17] INFO start run test case...
+2019-04-28 17:18:04,343 myunit.py[line:8] INFO ======setUp======
+2019-04-28 17:18:25,735 test_login.py[line:11] INFO ======test_01======
+2019-04-28 17:18:25,739 common_fun.py[line:18] INFO ======skip_guide_page======
+2019-04-28 17:18:27,953 common_fun.py[line:29] INFO ======go_login_view======
+2019-04-28 17:18:42,978 myunit.py[line:12] INFO ======tearDown======
+2019-04-28 17:18:48,991 myunit.py[line:8] INFO ======setUp======
+2019-04-28 17:19:01,803 test_login.py[line:19] INFO ======test_02======
+2019-04-28 17:19:01,804 common_fun.py[line:18] INFO ======skip_guide_page======
+2019-04-28 17:19:02,418 common_fun.py[line:29] INFO ======go_login_view======
+2019-04-28 17:19:17,564 myunit.py[line:12] INFO ======tearDown======
+2019-04-28 17:19:23,558 myunit.py[line:8] INFO ======setUp======
+2019-04-28 17:19:36,726 test_register.py[line:14] INFO ======test_register======
+2019-04-28 17:19:36,727 common_fun.py[line:18] INFO ======skip_guide_page======
+2019-04-28 17:19:37,327 common_fun.py[line:29] INFO ======go_login_view======
+2019-04-28 17:19:52,778 myunit.py[line:12] INFO ======tearDown======
+2019-04-28 17:27:51,286 run.py[line:17] INFO start run test case...
+2019-04-28 17:27:51,287 myunit.py[line:8] INFO ======setUp======
+2019-04-28 17:27:51,684 myunit.py[line:8] INFO ======setUp======
+2019-04-28 17:27:51,859 myunit.py[line:8] INFO ======setUp======
+2019-04-28 17:40:20,368 run.py[line:17] INFO start run test case...
+2019-04-28 17:40:20,368 myunit.py[line:8] INFO ======setUp======
+2019-04-28 17:40:20,628 myunit.py[line:8] INFO ======setUp======
+2019-04-28 17:40:20,805 myunit.py[line:8] INFO ======setUp======
+2019-04-28 17:42:21,036 run.py[line:17] INFO start run test case...
+2019-04-28 17:42:21,037 myunit.py[line:8] INFO ======setUp======
+2019-04-28 17:42:21,215 myunit.py[line:8] INFO ======setUp======
+2019-04-28 17:42:21,404 myunit.py[line:8] INFO ======setUp======
+2019-04-28 17:53:04,917 run.py[line:17] INFO start run test case...
+2019-04-28 17:53:04,918 myunit.py[line:8] INFO ======setUp======
+2019-04-28 17:53:22,104 test_login.py[line:11] INFO ======test_01======
+2019-04-28 17:53:22,137 common_fun.py[line:18] INFO ======skip_guide_page======
+2019-04-28 17:53:22,738 common_fun.py[line:29] INFO ======go_login_view======
+2019-04-28 17:53:37,896 myunit.py[line:12] INFO ======tearDown======
+2019-04-28 17:53:43,815 myunit.py[line:8] INFO ======setUp======
+2019-04-28 17:53:54,594 test_login.py[line:19] INFO ======test_02======
+2019-04-28 17:53:54,595 common_fun.py[line:18] INFO ======skip_guide_page======
+2019-04-28 17:53:55,214 common_fun.py[line:29] INFO ======go_login_view======
+2019-04-28 17:54:10,388 myunit.py[line:12] INFO ======tearDown======
+2019-04-28 17:54:16,225 myunit.py[line:8] INFO ======setUp======
+2019-04-28 17:54:26,849 test_register.py[line:14] INFO ======test_register======
+2019-04-28 17:54:26,850 common_fun.py[line:18] INFO ======skip_guide_page======
+2019-04-28 17:54:27,446 common_fun.py[line:29] INFO ======go_login_view======
+2019-04-28 17:54:42,477 myunit.py[line:12] INFO ======tearDown======
+2019-05-04 14:45:08,273 run.py[line:17] INFO start run test case...
+2019-05-04 14:45:08,303 myunit.py[line:8] INFO ======setUp======
+2019-05-04 14:45:13,629 myunit.py[line:8] INFO ======setUp======
+2019-05-04 14:45:18,654 myunit.py[line:8] INFO ======setUp======
+2019-05-04 14:52:19,335 myunit.py[line:8] INFO ======setUp======
+2019-05-04 14:52:33,302 test_login.py[line:11] INFO ======test_01======
+2019-05-04 14:52:33,334 common_fun.py[line:18] INFO ======skip_guide_page======
+2019-05-04 14:52:33,953 common_fun.py[line:29] INFO ======go_login_view======
+2019-05-04 14:52:49,254 myunit.py[line:12] INFO ======tearDown======
+2019-05-04 14:55:51,169 myunit.py[line:8] INFO ======setUp======
+2019-05-04 14:56:02,768 test_login.py[line:11] INFO ======test_01======
+2019-05-04 14:56:02,769 common_fun.py[line:18] INFO ======skip_guide_page======
+2019-05-04 14:56:03,366 common_fun.py[line:28] INFO ======go_login_view======
+2019-05-04 14:56:18,420 myunit.py[line:12] INFO ======tearDown======
+2019-05-04 15:10:38,241 myunit.py[line:8] INFO ======setUp======
+2019-05-04 15:10:50,716 test_login.py[line:11] INFO ======test_01======
+2019-05-04 15:10:50,719 common_fun.py[line:18] INFO ======skip_guide_page======
+2019-05-04 15:10:51,094 common_fun.py[line:28] INFO ======go_login_view======
+2019-05-04 15:11:06,197 myunit.py[line:12] INFO ======tearDown======
+2019-05-04 15:11:12,178 myunit.py[line:8] INFO ======setUp======
+2019-05-04 15:11:23,945 test_login.py[line:19] INFO ======test_02======
+2019-05-04 15:11:23,946 common_fun.py[line:18] INFO ======skip_guide_page======
+2019-05-04 15:11:24,523 common_fun.py[line:28] INFO ======go_login_view======
+2019-05-04 15:11:39,669 myunit.py[line:12] INFO ======tearDown======
+2019-05-04 15:18:44,926 myunit.py[line:8] INFO ======setUp======
+2019-05-04 15:18:49,990 myunit.py[line:8] INFO ======setUp======
+2019-05-04 15:19:30,673 myunit.py[line:8] INFO ======setUp======
+2019-05-04 15:19:41,593 test_login.py[line:11] INFO ======test_01======
+2019-05-04 15:19:41,595 common_fun.py[line:19] INFO ======skip_guide_page======
+2019-05-04 15:19:42,204 common_fun.py[line:29] INFO ======go_login_view======
+2019-05-04 15:19:57,651 myunit.py[line:12] INFO ======tearDown======
+2019-05-04 15:20:03,689 myunit.py[line:8] INFO ======setUp======
+2019-05-04 15:20:15,142 test_login.py[line:19] INFO ======test_02======
+2019-05-04 15:20:15,142 common_fun.py[line:19] INFO ======skip_guide_page======
+2019-05-04 15:20:15,733 common_fun.py[line:29] INFO ======go_login_view======
+2019-05-04 15:20:31,291 myunit.py[line:12] INFO ======tearDown======
+2019-05-04 15:41:36,768 myunit.py[line:8] INFO ======setUp======
+2019-05-04 15:42:07,115 myunit.py[line:8] INFO ======setUp======
+2019-05-04 15:42:42,751 myunit.py[line:8] INFO ======setUp======
+2019-05-04 15:43:11,232 myunit.py[line:8] INFO ======setUp======
+2019-05-04 15:44:39,438 myunit.py[line:8] INFO ======setUp======
+2019-05-04 15:44:55,494 test_login.py[line:11] INFO ======test_01======
+2019-05-04 15:44:55,496 common_fun.py[line:19] INFO ======skip_guide_page======
+2019-05-04 15:45:00,630 common_fun.py[line:31] INFO ======go_login_view======
+2019-05-04 15:45:15,845 myunit.py[line:12] INFO ======tearDown======
+2019-05-04 15:45:22,004 myunit.py[line:8] INFO ======setUp======
+2019-05-04 15:45:32,900 test_login.py[line:19] INFO ======test_02======
+2019-05-04 15:45:32,900 common_fun.py[line:19] INFO ======skip_guide_page======
+2019-05-04 15:45:38,031 common_fun.py[line:31] INFO ======go_login_view======
+2019-05-04 15:45:53,291 myunit.py[line:12] INFO ======tearDown======
+2019-05-04 15:53:20,855 myunit.py[line:8] INFO ======setUp======
+2019-05-04 15:53:32,093 test_login.py[line:11] INFO ======test_01======
+2019-05-04 15:53:32,094 common_fun.py[line:19] INFO ======skip_guide_page======
+2019-05-04 15:53:37,207 common_fun.py[line:31] INFO ======go_login_view======
+2019-05-04 15:53:52,748 myunit.py[line:12] INFO ======tearDown======
+2019-05-04 15:54:10,677 myunit.py[line:8] INFO ======setUp======
+2019-05-04 15:54:21,350 test_login.py[line:11] INFO ======test_01======
+2019-05-04 15:54:21,352 common_fun.py[line:19] INFO ======skip_guide_page======
+2019-05-04 15:54:26,504 common_fun.py[line:31] INFO ======go_login_view======
+2019-05-04 16:00:10,365 myunit.py[line:8] INFO ======setUp======
+2019-05-04 16:00:21,178 test_login.py[line:11] INFO ======test_01======
+2019-05-04 16:00:21,179 common_fun.py[line:19] INFO ======skip_guide_page======
+2019-05-04 16:00:36,180 common_fun.py[line:31] INFO ======go_login_view======
+2019-05-04 16:00:38,470 myunit.py[line:12] INFO ======tearDown======
+2019-05-04 16:02:07,467 myunit.py[line:8] INFO ======setUp======
+2019-05-04 16:02:19,161 test_login.py[line:11] INFO ======test_01======
+2019-05-04 16:02:19,162 common_fun.py[line:19] INFO ======skip_guide_page======
+2019-05-04 16:02:34,163 common_fun.py[line:31] INFO ======go_login_view======
+2019-05-04 16:02:35,764 myunit.py[line:12] INFO ======tearDown======
+2019-05-04 16:04:10,761 run.py[line:17] INFO start run test case...
+2019-05-04 16:04:10,762 myunit.py[line:8] INFO ======setUp======
+2019-05-04 16:04:22,632 test_login.py[line:11] INFO ======test_01======
+2019-05-04 16:04:22,633 common_fun.py[line:19] INFO ======skip_guide_page======
+2019-05-04 16:04:23,914 common_fun.py[line:29] INFO ======go_login_view======
+2019-05-04 16:04:27,941 login_view.py[line:33] INFO ======login_password_action======
+2019-05-04 16:04:27,941 login_view.py[line:34] INFO phoneNum is 18229635206
+2019-05-04 16:04:34,063 login_view.py[line:36] INFO password is a1234567
+2019-05-04 16:04:41,198 myunit.py[line:12] INFO ======tearDown======
+2019-05-04 16:04:47,111 myunit.py[line:8] INFO ======setUp======
+2019-05-04 16:04:58,302 test_login.py[line:19] INFO ======test_02======
+2019-05-04 16:04:58,302 common_fun.py[line:19] INFO ======skip_guide_page======
+2019-05-04 16:04:59,011 common_fun.py[line:29] INFO ======go_login_view======
+2019-05-04 16:05:04,232 login_view.py[line:46] INFO ======login_sms_action======
+2019-05-04 16:05:04,232 login_view.py[line:47] INFO phoneNum is 18229635206
+2019-05-04 16:05:10,980 login_view.py[line:49] INFO verificationCode is 4825
+2019-05-04 16:05:16,777 myunit.py[line:12] INFO ======tearDown======
+2019-05-04 16:05:22,725 myunit.py[line:8] INFO ======setUp======
+2019-05-04 16:05:33,940 test_register.py[line:14] INFO ======test_register======
+2019-05-04 16:05:33,940 common_fun.py[line:19] INFO ======skip_guide_page======
+2019-05-04 16:05:34,649 common_fun.py[line:29] INFO ======go_login_view======
+2019-05-04 16:05:38,912 register_view.py[line:22] INFO ======register_action======
+2019-05-04 16:05:39,620 register_view.py[line:24] INFO phoneNum is 14646896870
+2019-05-04 16:05:45,741 register_view.py[line:26] INFO verificationCode is 7427
+2019-05-04 16:05:51,328 register_view.py[line:28] INFO password is a5219798
+2019-05-04 16:05:52,053 myunit.py[line:12] INFO ======tearDown======
+2019-05-04 16:11:56,131 myunit.py[line:8] INFO ======setUp======
+2019-05-04 16:12:16,873 test_login.py[line:26] INFO ======test_01======
+2019-05-04 16:12:16,874 common_fun.py[line:19] INFO ======skip_guide_page======
+2019-05-04 16:12:17,955 common_fun.py[line:29] INFO ======go_login_view======
+2019-05-04 16:12:21,847 login_view.py[line:33] INFO ======login_password_action======
+2019-05-04 16:12:21,847 login_view.py[line:34] INFO phoneNum is 18512454646
+2019-05-04 16:12:23,903 login_view.py[line:36] INFO password is a12451784
+2019-05-04 16:12:25,766 myunit.py[line:12] INFO ======tearDown======
+2019-05-04 16:13:38,892 myunit.py[line:8] INFO ======setUp======
+2019-05-04 16:13:48,847 test_login.py[line:11] INFO ======test_01======
+2019-05-04 16:13:48,848 common_fun.py[line:19] INFO ======skip_guide_page======
+2019-05-04 16:13:50,225 common_fun.py[line:29] INFO ======go_login_view======
+2019-05-04 16:13:54,480 login_view.py[line:33] INFO ======login_password_action======
+2019-05-04 16:13:54,480 login_view.py[line:34] INFO phoneNum is 18229635206
+2019-05-04 16:14:00,941 login_view.py[line:36] INFO password is a1234567
+2019-05-04 16:14:07,213 myunit.py[line:12] INFO ======tearDown======
+2019-05-04 16:17:48,986 myunit.py[line:8] INFO ======setUp======
+2019-05-04 16:18:00,313 myunit.py[line:8] INFO ======setUp======
+2019-05-04 16:21:32,340 myunit.py[line:8] INFO ======setUp======
+2019-05-04 16:21:43,050 test_login.py[line:11] INFO ======test_01======
+2019-05-04 16:21:43,051 common_fun.py[line:19] INFO ======skip_guide_page======
+2019-05-04 16:21:43,722 common_fun.py[line:29] INFO ======go_login_view======
+2019-05-04 16:21:47,959 login_view.py[line:33] INFO ======login_password_action======
+2019-05-04 16:21:47,959 login_view.py[line:34] INFO phoneNum is 18229635206
+2019-05-04 16:21:53,757 login_view.py[line:36] INFO password is a1234567
+2019-05-04 16:21:59,703 myunit.py[line:12] INFO ======tearDown======
+2019-05-04 16:22:05,624 myunit.py[line:8] INFO ======setUp======
+2019-05-04 16:22:17,035 test_login.py[line:19] INFO ======test_02======
+2019-05-04 16:22:17,035 common_fun.py[line:19] INFO ======skip_guide_page======
+2019-05-04 16:22:17,609 common_fun.py[line:29] INFO ======go_login_view======
+2019-05-04 16:22:22,633 login_view.py[line:47] INFO ======login_sms_action======
+2019-05-04 16:22:22,633 login_view.py[line:48] INFO phoneNum is 18229635206
+2019-05-04 16:22:28,739 login_view.py[line:50] INFO verificationCode is 4825
+2019-05-04 16:22:35,607 myunit.py[line:12] INFO ======tearDown======
+2019-05-04 16:26:51,960 myunit.py[line:8] INFO ======setUp======
+2019-05-04 16:27:02,396 test_login.py[line:19] INFO ======test_02======
+2019-05-04 16:27:02,397 common_fun.py[line:19] INFO ======skip_guide_page======
+2019-05-04 16:27:03,704 common_fun.py[line:29] INFO ======go_login_view======
+2019-05-04 16:27:08,317 login_view.py[line:50] INFO ======login_sms_action======
+2019-05-04 16:27:08,317 login_view.py[line:51] INFO phoneNum is 18229635206
+2019-05-04 16:27:15,028 login_view.py[line:53] INFO verificationCode is 4825
+2019-05-04 16:27:21,743 myunit.py[line:12] INFO ======tearDown======
+2019-05-04 16:28:18,177 myunit.py[line:8] INFO ======setUp======
+2019-05-04 16:28:30,262 test_login.py[line:19] INFO ======test_02======
+2019-05-04 16:28:30,264 common_fun.py[line:19] INFO ======skip_guide_page======
+2019-05-04 16:28:31,016 common_fun.py[line:29] INFO ======go_login_view======
+2019-05-04 16:28:36,129 login_view.py[line:50] INFO ======login_sms_action======
+2019-05-04 16:28:36,129 login_view.py[line:51] INFO phoneNum is 18229635206
+2019-05-04 16:28:42,608 login_view.py[line:53] INFO verificationCode is 4825
+2019-05-04 16:28:50,028 login_view.py[line:61] INFO ======check_login_status======
+2019-05-04 16:28:51,478 login_view.py[line:70] INFO login success!
+2019-05-04 16:28:51,479 myunit.py[line:12] INFO ======tearDown======
+2019-05-04 16:29:48,930 myunit.py[line:8] INFO ======setUp======
+2019-05-04 16:30:09,576 test_login.py[line:26] INFO ======test_01======
+2019-05-04 16:30:09,577 common_fun.py[line:19] INFO ======skip_guide_page======
+2019-05-04 16:30:10,177 common_fun.py[line:29] INFO ======go_login_view======
+2019-05-04 16:30:13,947 login_view.py[line:36] INFO ======login_password_action======
+2019-05-04 16:30:13,947 login_view.py[line:37] INFO phoneNum is 18512454646
+2019-05-04 16:30:14,091 myunit.py[line:12] INFO ======tearDown======
+2019-05-04 16:30:26,810 myunit.py[line:8] INFO ======setUp======
+2019-05-04 16:30:45,303 test_login.py[line:26] INFO ======test_01======
+2019-05-04 16:30:45,305 common_fun.py[line:19] INFO ======skip_guide_page======
+2019-05-04 16:30:46,014 common_fun.py[line:29] INFO ======go_login_view======
+2019-05-04 16:30:52,029 login_view.py[line:36] INFO ======login_password_action======
+2019-05-04 16:30:52,030 login_view.py[line:37] INFO phoneNum is 18512454646
+2019-05-04 16:30:53,768 login_view.py[line:39] INFO password is a12451784
+2019-05-04 16:30:56,791 login_view.py[line:75] INFO ======check_login_fail_status======
+2019-05-04 16:31:12,235 myunit.py[line:12] INFO ======tearDown======
+2019-05-04 16:31:52,879 myunit.py[line:8] INFO ======setUp======
+2019-05-04 16:32:11,488 test_login.py[line:26] INFO ======test_01======
+2019-05-04 16:32:11,489 common_fun.py[line:19] INFO ======skip_guide_page======
+2019-05-04 16:32:12,186 common_fun.py[line:29] INFO ======go_login_view======
+2019-05-04 16:32:16,253 login_view.py[line:36] INFO ======login_password_action======
+2019-05-04 16:32:16,254 login_view.py[line:37] INFO phoneNum is 18512454646
+2019-05-04 16:32:18,162 login_view.py[line:39] INFO password is a12451784
+2019-05-04 16:32:18,174 myunit.py[line:12] INFO ======tearDown======
+2019-05-04 16:32:26,650 myunit.py[line:8] INFO ======setUp======
+2019-05-04 16:32:44,994 test_login.py[line:26] INFO ======test_01======
+2019-05-04 16:32:44,995 common_fun.py[line:19] INFO ======skip_guide_page======
+2019-05-04 16:32:45,599 common_fun.py[line:29] INFO ======go_login_view======
+2019-05-04 16:32:51,413 login_view.py[line:36] INFO ======login_password_action======
+2019-05-04 16:32:51,414 login_view.py[line:37] INFO phoneNum is 18512454646
+2019-05-04 16:32:51,536 myunit.py[line:12] INFO ======tearDown======
+2019-05-04 16:33:16,381 myunit.py[line:8] INFO ======setUp======
+2019-05-04 16:33:34,921 test_login.py[line:26] INFO ======test_01======
+2019-05-04 16:33:34,923 common_fun.py[line:19] INFO ======skip_guide_page======
+2019-05-04 16:33:35,494 common_fun.py[line:29] INFO ======go_login_view======
+2019-05-04 16:33:39,287 login_view.py[line:36] INFO ======login_password_action======
+2019-05-04 16:33:39,288 login_view.py[line:37] INFO phoneNum is 18512454646
+2019-05-04 16:33:39,433 myunit.py[line:12] INFO ======tearDown======
+2019-05-04 16:34:35,735 myunit.py[line:8] INFO ======setUp======
+2019-05-04 16:34:55,400 test_login.py[line:26] INFO ======test_01======
+2019-05-04 16:34:55,401 common_fun.py[line:19] INFO ======skip_guide_page======
+2019-05-04 16:34:56,552 common_fun.py[line:29] INFO ======go_login_view======
+2019-05-04 16:35:01,503 login_view.py[line:36] INFO ======login_password_action======
+2019-05-04 16:35:01,504 login_view.py[line:37] INFO phoneNum is 18512454646
+2019-05-04 16:35:04,516 login_view.py[line:40] INFO password is a12451784
+2019-05-04 16:35:06,569 login_view.py[line:76] INFO ======check_login_fail_status======
+2019-05-04 16:35:22,056 myunit.py[line:12] INFO ======tearDown======
+2019-06-23 13:35:46,462 run.py[line:17] INFO start run test case...
+2019-06-23 13:35:46,479 myunit.py[line:8] INFO ======setUp======
+2019-06-23 13:36:19,985 myunit.py[line:8] INFO ======setUp======
